@@ -16,4 +16,6 @@ Sản phẩm này không phải là thuốc và không có tác dụng thay th�
 2. Chạy pip install -r requirements.txt
 ## Crawl về folder
 1. Tiếp tục với màn cmd thì chạy:
-   python crawl.py -t duong-dan-den-file-txt -o duong-dan-den-folder-can-luu-anh
+- python crawl.py -t duong-dan-den-file-txt -o duong-dan-den-folder-can-luu-anh
+- duong-dan-den-file-txt: Giống như tên :v là đường dẫn đến file nodepad của bạn (Ví dụ: E:\Projects\Python\CrawlGoogleImage\sample.txt)
+- duong-dan-den-folder-can-luu-anh: Giống như tên :v là đường dẫn đến folder mà bạn cần lưu (Ví dụ: E:\Projects\Python\CrawlGoogleImage\Data)
